@@ -19,7 +19,7 @@ Ein modularer Discord-Bot für die Community von mittzocken.de – mit modernen 
 
 1. **Bot und Abhängigkeiten installieren:**
    ```bash
-   git clone <dein-repo-url>
+   git clone https://github.com/shadowfps/mittbot.git
    cd mittzocken-bot
    npm install
    ```
